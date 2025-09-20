@@ -21,8 +21,8 @@
 ---
 
 ## 🚀 Selected Projects
-- 🖼️ **AdSnap** – Automated banner ad generation via GPT-3.5 + OpenCV, reducing manual design effort  
-- 🧬 ** US Mortality Risk Model** – Analyzed health and demographic data across 3,000+ US counties to support public health policy decisions  
+- 🖼️ **AdSnap** - Automated banner ad generation via GPT-3.5 + OpenCV, reducing manual design effort  
+- 🧬 ** US Mortality Risk Model** - Analyzed health and demographic data across 3,000+ US counties to support public health policy decisions  
 
 ---
 
@@ -32,4 +32,4 @@
 ---
 
 🧃 **Fun Fact:**  
-I believe great code is like great coffee — strong, clean, and best enjoyed with others.
+I believe great code is like great coffee - strong, clean, and best enjoyed with others.
