@@ -14,7 +14,7 @@
 - Develop AI-powered tools using LLMs, computer vision, and automation  
 
 **Software Engineering**
-- Design scalable backend systems with Spring Boot, GCP, and AWS  
+- Design scalable backend systems with Spring Boot, SQL , and AWS  
 - Optimize data pipelines for performance and scalability  
 - Collaborate on open-source, academic, and student-led projects  
 
